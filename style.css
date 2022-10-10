@@ -1,0 +1,86 @@
+body{
+    background: linear-gradient(rgb(252, 132, 252), rgb(252, 252, 109));
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#aboutScreen {
+    background-color: rgb(255, 255, 255);
+}
+
+.paragrph {
+    font-size: 20px;
+}
+
+.favourite
+{
+    font-size: 20px;
+}
+
+li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li {
+    border-right: 1px solid #bbb;
+  }
+  
+  #contactScreen
+{
+background: firebrick;
+}
+
+#contactScreen iframe
+{
+    width: 100%;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+  .link {
+    float: left;
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover {
+    background-color: rgb(8, 8, 0);
+}
